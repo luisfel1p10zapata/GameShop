@@ -21,7 +21,7 @@ export const Content = () => {
           </Typography>
 
           <Typography variant="h6" sx={{ mb:4, opacity:0.9 }}>
-            Creamos experiencias inmersivas que conectan jugadores de todo el mundo. Innovación, creatividad y pasión por los videojuegos.
+            Creamos experiencias inmersivas que conectan jugadores de todo el mundo. Innovación, creatividad y pasión por los videojuegos. https://github.com/luisfel1p10zapata/GameShop.git
           </Typography>
 
           <Stack direction={{ xs:"column", sm:"row" }} spacing={2} justifyContent="center" alignItems="center">
